@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T00:56:59 IST" name="Default suite" finished-at="2024-10-10T00:57:05 IST" duration-ms="6056">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T00:56:59 IST" name="Default test" finished-at="2024-10-10T00:57:05 IST" duration-ms="6056">
+      <class name="RunnerTest.Runner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:RunnerTest.Runner@223d2c72]" started-at="2024-10-10T00:56:59 IST" name="setUpClass" finished-at="2024-10-10T00:57:00 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="fetchUsersFromFanCodeCity()[pri:1, instance:RunnerTest.Runner@223d2c72]" started-at="2024-10-10T00:57:00 IST" name="fetchUsersFromFanCodeCity" finished-at="2024-10-10T00:57:04 IST" duration-ms="4469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchUsersFromFanCodeCity -->
+        <test-method signature="VerifyTodoAPI()[pri:2, instance:RunnerTest.Runner@223d2c72]" started-at="2024-10-10T00:57:04 IST" name="VerifyTodoAPI" finished-at="2024-10-10T00:57:05 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTodoAPI -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:RunnerTest.Runner@223d2c72]" started-at="2024-10-10T00:57:05 IST" name="tearDownClass" finished-at="2024-10-10T00:57:05 IST" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- RunnerTest.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
